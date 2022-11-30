@@ -1,11 +1,16 @@
-'ello, i’m @PixerPinecone ! =D
+Hello, I'm Pixer Pinecone! (You can just call me Pixer.) I'm a catholic indie dev who's currently working on a dream game named: "Hatchetflash".
 
-i'm a wannabe indie game developer who's currently working on a game called "Hatchetflash"
-i’m currently learning c++, and to use ms visual studio, flstudio, and a few other programs.
 
-you can contact me using:
-  - my discord: https://discord.gg/gtKAmx9tbD
-  - my youtube channel: https://www.youtube.com/channel/UC0RyrBPUAek23mqsQC-TPqw
+
+  -->   Business Email: pixerpinecone@gmail.com
+  
+  -->   Public Discord Server: https://discord.gg/gtKAmx9tbD
+  
+  -->   My Twitter: https://twitter.com/PixerPinecone
+  
+  -->   My Youtube: https://www.youtube.com/channel/UC0RyrBPUAek23mqsQC-TPqw
+  
+I hope you all have a wonderful day!
 
 <!---
 PixerPinecone/PixerPinecone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
