@@ -1,4 +1,4 @@
-Hello, I'm Pixer! I'm a catholic, a guy, and an indie dev.
+Hello, I'm Pixer! I'm a guy, a Catholic and an indie dev.
 
 --> https://pixerpinecone.carrd.co/
 
