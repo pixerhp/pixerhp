@@ -1,16 +1,10 @@
-Hello, I'm Pixer Pinecone! (You can just call me Pixer.) I'm a catholic indie dev who's currently working on a dream game named: "Hatchetflash".
+Hello, I'm Pixer! I'm a catholic, a guy, and an indie dev.
 
+--> https://pixerpinecone.carrd.co/
 
-
-  -->   Business Email: pixerpinecone@gmail.com
+-->   Business Email: (I almost never check my emails) pixerpinecone@gmail.com
   
-  -->   Public Discord Server: https://discord.gg/gtKAmx9tbD
-  
-  -->   My Twitter: https://twitter.com/PixerPinecone
-  
-  -->   My Youtube: https://www.youtube.com/channel/UC0RyrBPUAek23mqsQC-TPqw
-  
-I hope you all have a wonderful day!
+Have a lovely day all of you!
 
 <!---
 PixerPinecone/PixerPinecone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
