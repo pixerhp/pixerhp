@@ -1,10 +1,8 @@
-Hello, I'm Pixer! I'm a guy, a Catholic and an indie dev.
+hello, i'm pixer! you can find my other accounts and more about me on my carrd:
 
---> https://pixerpinecone.carrd.co/
+→ https://pixerpinecone.carrd.co/
 
--->   Business Email: (I almost never check my emails) pixerpinecone@gmail.com
-  
-Have a lovely day all of you!
+have a lovely day!
 
 <!---
 PixerPinecone/PixerPinecone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
