@@ -1,8 +1,8 @@
-hello, i'm pixer! you can find my other accounts and more about me on my carrd:
+Hello, I'm Pixer! I'm an guy (he/him), an indie game developer (my main project is Hatchetflair!), and an artist for Qubica.
 
-→ https://pixerpinecone.carrd.co/
+You can find my other accounts/stuff on my carrd: → https://pixerpinecone.carrd.co/
 
-have a lovely day!
+Have a lovely day! :^)
 
 <!---
 PixerPinecone/PixerPinecone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
