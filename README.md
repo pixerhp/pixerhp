@@ -5,6 +5,6 @@ You can find my other accounts/platforms on my website:<br>→ https://pixerhp.g
 
 (I generally do not consent to my code or other creations being used in the training of AI without explicit permission.)
 
+<sub>(Only updates once every few hours due to how GitHub's image caching works ↓)</sub>
 <!-- Note: Date in link argument seems to be in php format. -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=pixerhp&theme=dark&hide_border=true&border_radius=8&date_format=Y/n/j&exclude_days=Sun&card_width=496&card_height=196&background=15171CDF&ring=FA3D50AA&fire=EFEFEF&currStreakLabel=EBEBEB&excludeDaysLabel=9E9E9E80)](https://git.io/streak-stats)
-<br><sup>(Only updates once every few hours due to how GitHub's image caching works ^)</sup>
