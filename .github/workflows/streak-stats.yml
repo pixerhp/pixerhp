@@ -3,7 +3,7 @@ name: Update Streak Stats
 
 on:
   schedule:
-    - cron: "0 0,6,12,18 * * *"
+    - cron: "0 0 * * *"
   push:
     paths:
       - ".github/workflows/streak-stats.yml" # Run any time this file is modified
