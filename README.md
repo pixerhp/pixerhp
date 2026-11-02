@@ -3,7 +3,7 @@ I'm Pixer!— I'm a guy (he/him), a hobbyist indie game developer, and a general
 
 You can find my other accounts/platforms on my website:<br>→ https://pixerhp.github.io/connections.html
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=pixerhp&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark_github)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=pixerhp&rank_icon=percentile&show_icons=true&include_all_commits=true&disable_animations=true&theme=dark_github)](https://github.com/stats-organization/github-stats-extended)
 
 <!-- Note: Streak stats card updates at scheduled times. -->
 <!--
